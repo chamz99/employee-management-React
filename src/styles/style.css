@@ -1,0 +1,17 @@
+.table-container{
+    background-color: white;
+
+    padding:20px;
+}
+.navbar{
+    background-color: antiquewhite;
+}
+.employee-page{
+    background-color: #F5F5DC;
+}
+.department-page{
+    background-color: #F5F5DC;
+}
+.modal-header{
+    background-color: antiquewhite;
+}
